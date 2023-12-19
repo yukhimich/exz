@@ -1,0 +1,7 @@
+C:\Users\Данило\source\repos\exz\exz\bin\Debug\exz.exe.config
+C:\Users\Данило\source\repos\exz\exz\bin\Debug\exz.exe
+C:\Users\Данило\source\repos\exz\exz\bin\Debug\exz.pdb
+C:\Users\Данило\source\repos\exz\exz\obj\Debug\exz.csproj.AssemblyReference.cache
+C:\Users\Данило\source\repos\exz\exz\obj\Debug\exz.csproj.CoreCompileInputs.cache
+C:\Users\Данило\source\repos\exz\exz\obj\Debug\exz.exe
+C:\Users\Данило\source\repos\exz\exz\obj\Debug\exz.pdb
